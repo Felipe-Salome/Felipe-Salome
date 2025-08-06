@@ -15,7 +15,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Salome\&layout=compact\&theme=dracula)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Felipe-Salome\&show_icons=true\&hide=contribs\&count_private=true\&theme=dracula)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Felipe-Salome\&show_icons=true\&hide=contribs\&count_private=false\&theme=dracula)
 
 ---
 
